@@ -1,0 +1,7 @@
+Jennifer Quay Minnich
+11/09/20
+Lab 8: Linked Lists, Memory Allocation, Valgrind, and Pointers
+
+Purpose_
+
+Lab 8 was based around linked lists. We created a menu structure and let the user choose how to store data and what to do with it after creating a list. Linked lists allow us to store data that is dynamically sized. There were a lot of use cases to cover in the menu structure to meet the lab specs and also for general error handling.  We used malloc to request space and freed the space at the end of the program. In the collatz sequence, we used linked lists to generate a sequence of numbers in a mathematical application. 
